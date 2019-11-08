@@ -1,0 +1,28 @@
+.skills--grid {
+  background: #161616;
+  min-height: 110vh;
+  height: 100%;
+  justify-content: center;
+}
+
+.skill__col {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding-top: 30px;
+  padding-right: 20px;
+}
+
+.skill__list {
+  list-style: none;
+  padding: auto 10px;
+}
+
+.skill__description {
+  color: whitesmoke;
+  font-size: 1.1em;
+}
+
+.skill__title {
+  color: rgb(243, 197, 255);
+}

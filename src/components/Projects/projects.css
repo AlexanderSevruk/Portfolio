@@ -1,0 +1,21 @@
+.category-tabs {
+  padding-top: 100px;
+  background: #161616;
+  min-height: 110vh;
+  height: 100%;
+  width: 100%;
+}
+
+.tab-text {
+  color: whitesmoke;
+  font-size: 1.1em;
+}
+
+.projects-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 10px auto;
+}
