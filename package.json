@@ -2,7 +2,7 @@
   "name": "webportv2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AlexanderSevruk.github.io/webportfolio",
+  "homepage": "http://alexandersevruk.github.io/webportfolio",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
