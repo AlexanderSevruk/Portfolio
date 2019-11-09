@@ -11,11 +11,6 @@
   font-size: 1.1em;
 }
 
-.projects-grid {
-  display: flex;
-  flex-wrap: wrap;
-}
-
 .card {
   margin: 10px auto;
 }

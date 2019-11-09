@@ -6,11 +6,7 @@
 }
 
 .skill__col {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  padding-top: 30px;
-  padding-right: 20px;
+  padding-top: 10px;
 }
 
 .skill__list {
