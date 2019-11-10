@@ -25,19 +25,21 @@ const Skills = () => {
               </p>
             </li>
             <li className="skill__list">
+              <h6 className="skill__title"> BOOTSTRAP</h6>{" "}
+              <p className="skill__description">
+                Понимание фреймворка css - Bootstrap. Применение готовой сетки
+                Bootstrap. Работа с гридами в целом. Добавление элементов UI в
+                проекты. Использование похожих библиотек: Reactmdl, Material-UI,
+                React-Bootstrap.
+              </p>
+            </li>
+            <li className="skill__list">
               <h6 className="skill__title">JAVASCRIPT </h6>{" "}
               <p className="skill__description">
                 Ориентируюсь в ванильном JavaScript. Понимание и работа с такими
                 вещами как: Циклы, if else и switch statement, тернарные
-                операторы, promise и асинхронные функции, массивами, Babel.js,
+                операторы, promise и асинхронные функции, массивами,
                 теоретическое понимание принципов ООП и паттернов.
-              </p>
-            </li>
-            <li className="skill__list">
-              <h6 className="skill__title"> GIT</h6>{" "}
-              <p className="skill__description">
-                Работа с удаленными репозиторями. Пуш, пул реквесты, коммиты,
-                создание веток и т.д.
               </p>
             </li>
           </ul>
@@ -63,6 +65,13 @@ const Skills = () => {
                 менеджмента . Работа с NPM. Использование Context API, React
                 router и подключение библиотек для UI: Reactmdl, Material UI и
                 т.д.
+              </p>
+            </li>
+            <li className="skill__list">
+              <h6 className="skill__title"> GIT</h6>{" "}
+              <p className="skill__description">
+                Работа с удаленными репозиторями. Пуш, пул реквесты, коммиты,
+                создание веток и т.д.
               </p>
             </li>
             <li className="skill__list">

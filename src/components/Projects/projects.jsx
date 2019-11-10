@@ -39,8 +39,8 @@ class Projects extends Component {
                 }}
               ></CardTitle>
               <CardText style={{ fontSize: "1.1rem" }}>
-                Working on app that allows you to search,save and create
-                recipes.{" "}
+                Приложение которое позволяет искать рецепты. Отображает
+                ингредиенты, граммовки и калории.
               </CardText>
               <CardActions border>
                 <Button
@@ -81,8 +81,8 @@ class Projects extends Component {
                 }}
               ></CardTitle>
               <CardText style={{ fontSize: "1.1rem" }}>
-                Made some logos on 99designs.Most of them you can find in the
-                profile below
+                Сделал несколько логотипов на 99designs. Большинство из них вы
+                можете найти в профиле ниже
               </CardText>
               <CardActions border>
                 <Button
@@ -109,7 +109,7 @@ class Projects extends Component {
                 }}
               ></CardTitle>
               <CardText style={{ fontSize: "1.1rem" }}>
-                Overlays for media resources. Mostly for twitch.tv
+                Оформление для медиаресурсов.
               </CardText>
               <CardActions border>
                 <Button
@@ -118,13 +118,6 @@ class Projects extends Component {
                   colored
                 >
                   Behance
-                </Button>
-                <Button
-                  href="https://www.twitch.tv/mekroy"
-                  target="_blank"
-                  colored
-                >
-                  Twitch.tv
                 </Button>
               </CardActions>
             </Card>
