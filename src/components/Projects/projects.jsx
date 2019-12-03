@@ -40,7 +40,7 @@ class Projects extends Component {
               ></CardTitle>
               <CardText style={{ fontSize: "1.2rem", fontWeight: "bold" }}>
                 Приложение которое позволяет искать, создовать и хранить
-                рецепты. отражает ингредиенты, граммовки и калории.
+                рецепты.
               </CardText>
               <CardActions border>
                 <Button
