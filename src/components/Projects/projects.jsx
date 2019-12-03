@@ -39,13 +39,13 @@ class Projects extends Component {
                 }}
               ></CardTitle>
               <CardText style={{ fontSize: "1.2rem", fontWeight: "bold" }}>
-                Приложение которое позволяет искать рецепты. Отображает
-                ингредиенты, граммовки и калории.
+                Приложение которое позволяет искать, создовать и хранить
+                рецепты. отражает ингредиенты, граммовки и калории.
               </CardText>
               <CardActions border>
                 <Button
                   colored
-                  href="https://github.com/AlexanderSevruk/recipe-book/tree/master"
+                  href="https://github.com/AlexanderSevruk/recipebook/tree/master"
                   target="_blank"
                 >
                   github
@@ -53,7 +53,7 @@ class Projects extends Component {
                 <Button
                   className="button"
                   colored
-                  href="https://alexandersevruk.github.io/recipe-book/"
+                  href="https://alexandersevruk.github.io/recipebook/"
                   target="_blank"
                 >
                   live demo
