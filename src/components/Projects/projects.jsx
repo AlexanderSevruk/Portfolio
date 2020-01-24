@@ -12,8 +12,6 @@ import {
 } from "react-mdl";
 import "./projects.css";
 
-//garbage component
-
 class Projects extends Component {
   constructor(props) {
     super(props);
@@ -28,7 +26,7 @@ class Projects extends Component {
             <Card
               className="card"
               shadow={5}
-              style={{ width: "320px", height: "320px" }}
+              style={{ width: "300px", height: "300px" }}
             >
               <CardTitle
                 expand
@@ -38,7 +36,13 @@ class Projects extends Component {
                     "url(http://i.piccy.info/i9/6d5a32a6cb295d18a82203df55efc1f1/1572791153/191192/1345661/Recipebook.jpg) center / cover "
                 }}
               ></CardTitle>
-              <CardText style={{ fontSize: "1.2rem", fontWeight: "bold" }}>
+              <CardText
+                style={{
+                  fontSize: "1.2rem",
+                  fontWeight: "bold",
+                  lineHeight: "1.4"
+                }}
+              >
                 Приложение которое позволяет искать, создовать и хранить
                 рецепты.
               </CardText>
@@ -60,10 +64,11 @@ class Projects extends Component {
                 </Button>
               </CardActions>
             </Card>
+
             <Card
               className="card"
               shadow={5}
-              style={{ width: "320px", height: "320px" }}
+              style={{ width: "300px", height: "300px" }}
             >
               <CardTitle
                 expand
@@ -73,7 +78,13 @@ class Projects extends Component {
                     "url(http://i.piccy.info/i9/19a75071669c502b5a318029b4b97f6a/1574095336/54402/1345661/fesco_layout.jpg) top / cover "
                 }}
               ></CardTitle>
-              <CardText style={{ fontSize: "1.2rem", fontWeight: "bold" }}>
+              <CardText
+                style={{
+                  fontSize: "1.2rem",
+                  fontWeight: "bold",
+                  lineHeight: "1.4"
+                }}
+              >
                 Верстка сайта с использованием сетки bootstrap4. Сайт
                 адаптивный.
               </CardText>
@@ -105,7 +116,7 @@ class Projects extends Component {
             <Card
               className="card"
               shadow={5}
-              style={{ width: "320px", height: "320px" }}
+              style={{ width: "300px", height: "300px" }}
             >
               <CardTitle
                 expand
@@ -115,7 +126,13 @@ class Projects extends Component {
                     "url(http://i.piccy.info/i9/dbf475dc4643228b2993429cec588db5/1572791522/61085/1345661/Slime_crates_behance.jpg) center / cover "
                 }}
               ></CardTitle>
-              <CardText style={{ fontSize: "1.2rem", fontWeight: "bold" }}>
+              <CardText
+                style={{
+                  fontSize: "1.2rem",
+                  fontWeight: "bold",
+                  lineHeight: "1.4"
+                }}
+              >
                 Сделал несколько логотипов на 99designs. Большинство из них вы
                 можете найти в профиле ниже
               </CardText>
@@ -133,7 +150,7 @@ class Projects extends Component {
             <Card
               className="card"
               shadow={5}
-              style={{ width: "320px", height: "320px" }}
+              style={{ width: "300px", height: "300px" }}
             >
               <CardTitle
                 expand
@@ -143,7 +160,13 @@ class Projects extends Component {
                     "url(http://i.piccy.info/i9/411df9f2a4ea71aa79ee569b7fb30a3c/1572792248/109476/1345661/offline.jpg) center / cover "
                 }}
               ></CardTitle>
-              <CardText style={{ fontSize: "1.2rem", fontWeight: "bold" }}>
+              <CardText
+                style={{
+                  fontSize: "1.2rem",
+                  fontWeight: "bold",
+                  lineHeight: "1.4"
+                }}
+              >
                 Оформление для медиаресурсов.
               </CardText>
               <CardActions border>

@@ -20,8 +20,7 @@ const Skills = () => {
               <h6 className="skill__title"> CSS </h6>{" "}
               <p className="skill__description">
                 Изучил таблицу каскадных стилей CSS. Научился стилизовать
-                элементы на сайте с помощью селекторов, атрибутов и классов
-                тегов.
+                элементы на сайте с помощью селекторов, атрибутов и классов.
               </p>
             </li>
             <li className="skill__list">
@@ -58,13 +57,12 @@ const Skills = () => {
               </p>
             </li>
             <li className="skill__list">
-              <h6 className="skill__title">React</h6>{" "}
+              <h6 className="skill__title">REACT</h6>{" "}
               <p className="skill__description">
                 Работа с библиотекой React Js. Создание классовых ,
                 функциональных компонентов. Понимание life cycle методов и state
-                менеджмента . Работа с NPM. Использование Context API, React
-                router и подключение библиотек для UI: Reactmdl, Material UI и
-                т.д.
+                менеджмента. Использование Context API, React router и
+                подключение библиотек для UI: Reactmdl, Material UI и т.д.
               </p>
             </li>
             <li className="skill__list">

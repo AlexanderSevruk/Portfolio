@@ -2,9 +2,9 @@
   margin: 0;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(-45deg, #03001e, #566ce9, #1b1385, #150b3f);
+  background: linear-gradient(-45deg, #416788, #7389ae, #b5bad0, #e0e0e2);
   background-size: 400% 400%;
-  animation: gradientBG 15s ease infinite;
+  animation: gradientBG 10s ease infinite;
 }
 
 @keyframes gradientBG {
@@ -24,38 +24,32 @@
 }
 
 .home__content {
-  margin-top: 18vh;
+  margin-top: 25vh;
 }
 
 .home__title {
   font-size: 3em;
   text-transform: uppercase;
-
-  color: ghostwhite;
+  color: #000000;
   font-family: "Montserrat", sans-serif;
-  letter-spacing: 1px;
-}
-
-.home__hr {
-  margin: auto;
-  max-width: 600px;
+  letter-spacing: 3px;
+  font-weight: bold;
 }
 
 .home__text {
-  color: ghostwhite;
-  font-size: 1.2em;
+  color: #000000;
+  font-size: 1.5em;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  padding-top: 30px;
-  font-family: "Montserrat", sans-serif;
 }
 
 .home__title2 {
-  font-size: 2.2em;
-  color: ghostwhite;
+  font-size: 1.4em;
+  color: #000000;
   font-family: "Montserrat", sans-serif;
+  font-weight: bold;
 }
 
 .links {
@@ -66,12 +60,12 @@
 }
 
 .links i {
-  color: ghostwhite;
-  font-size: 3em;
-  padding: 15px 20px;
+  color: #000000;
+  font-size: 3.2em;
+  padding: 20px 30px;
 }
 
 .links :hover {
-  color: #6359bb;
+  color: #3b3b3b;
   transition: 500ms;
 }

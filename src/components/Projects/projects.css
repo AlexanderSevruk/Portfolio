@@ -1,16 +1,16 @@
 .category-tabs {
   padding-top: 100px;
-  background: #161616;
+  background: #527492;
   min-height: 110vh;
   height: 100%;
   width: 100%;
 }
 
 .tab-text {
-  color: whitesmoke;
+  color: #e2e2e4;
   font-size: 1.2em;
 }
 
 .card {
-  margin: 10px auto;
+  margin: 30px auto;
 }

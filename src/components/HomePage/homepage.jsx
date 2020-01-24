@@ -14,10 +14,10 @@ const Home = () => {
             <h2 className="home__title2">
               Front-end developer / Graphic designer
             </h2>
-            <hr className="home__hr" />
+
             <p className="home__text">
               <Typical
-                steps={["React", 1500, "Front-end", 1500, "Layout", 1500]}
+                steps={["React", 2000, "Front-end", 2000, "Layout", 2000]}
                 loop={Infinity}
                 wrapper="b"
               />
