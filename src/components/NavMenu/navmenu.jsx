@@ -1,5 +1,5 @@
 import React from "react";
-import { bubble as Menu } from "react-burger-menu";
+import { slide as Menu } from "react-burger-menu";
 import { Link } from "react-router-dom";
 import "./navmenu.css";
 
@@ -28,7 +28,7 @@ class Nav extends React.Component {
         disableAutoFocus
       >
         <Link onClick={() => this.closeMenu()} className="menu-item" to="/">
-          <i className="fa fa-home" /> Home
+          <i className="fa fa-home" /> <span>Home</span>
         </Link>
 
         <Link

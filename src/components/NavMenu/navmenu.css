@@ -7,12 +7,12 @@
 }
 
 .bm-burger-bars {
-  background: #000000;
+  background: #dadada;
 }
 
 .bm-burger-bars-hover {
-  background: #3b3b3b;
-  transition: 500ms;
+  background: #777777;
+  transition: 250ms;
 }
 
 .bm-cross-button {
@@ -21,7 +21,7 @@
 }
 
 .bm-cross {
-  background: #e2e2e4;
+  background: #dadada;
 }
 
 .bm-menu-wrap {
@@ -29,8 +29,8 @@
 }
 
 .bm-menu {
-  background: #182632;
-  padding: 2.5em 1.5em 0;
+  background: #0e0e0e;
+  padding: 2.5em 1em;
 }
 
 .bm-morph-shape {
@@ -41,11 +41,11 @@
   display: inline-block;
   padding: 0.8em;
   text-decoration: none;
-  color: #e2e2e4;
+  color: #dadada;
   font-size: 1.5em;
 }
 
-.bm-item :hover {
-  color: #527492;
-  transition: 500ms;
+.bm-menu > nav > a:hover {
+  color: #777777;
+  text-decoration-line: none;
 }

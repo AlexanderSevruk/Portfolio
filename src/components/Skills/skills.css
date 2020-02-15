@@ -1,30 +1,15 @@
-.skills--grid {
-  background: #527492;
-  min-height: 110vh;
-  height: 100%;
-  justify-content: center;
-}
-
-.skill__col {
-  padding-top: 10vh;
-}
-
-.skill__list {
+.stack ul {
   list-style: none;
-  padding: auto 10px;
 }
 
-.skill__description {
-  color: #e2e2e4;
-  font-size: 1.2em;
-  font-weight: bold;
-  line-height: 1.7;
-  letter-spacing: 1px;
+.stack ul li h1 {
+  font-size: 1.5em;
+  margin: 20px 0;
+  letter-spacing: 2px;
+  color: #dadada;
 }
 
-.skill__title {
-  font-size: 1.4em;
-  color: #222222;
-  font-weight: bold;
-  letter-spacing: 1px;
+.stack ul li p {
+  color: #bebebe;
+  font-size: 1.1em;
 }
