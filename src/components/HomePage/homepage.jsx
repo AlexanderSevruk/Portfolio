@@ -8,7 +8,7 @@ import "./homepage.css";
 
 const Home = () => {
   return (
-    <div style={{ height: "100vh" }}>
+    <div style={{ height: "auto" }}>
       <Particles
         style={{
           position: "absolute",
@@ -20,7 +20,7 @@ const Home = () => {
         params={{
           particles: {
             number: {
-              value: 70,
+              value: 100,
               density: {
                 enable: true,
                 value_area: 800
@@ -68,7 +68,7 @@ const Home = () => {
             },
             move: {
               enable: true,
-              speed: 7,
+              speed: 5,
               direction: "none",
               random: true,
               straight: false,
@@ -88,10 +88,7 @@ const Home = () => {
                 enable: true,
                 mode: "repulse"
               },
-              onclick: {
-                enable: true,
-                mode: "push"
-              },
+
               resize: true
             },
             modes: {
@@ -125,8 +122,11 @@ const Home = () => {
       />
 
       <Container>
-        <Row className="justify-content-md-center">
-          <Col md="auto" style={{ marginTop: "35vh" }}>
+        <Row
+          className="justify-content-md-center"
+          style={{ paddingTop: "35vh" }}
+        >
+          <Col md="auto">
             <h1 className="home__title">Alexander Sevruk</h1>
           </Col>
         </Row>
@@ -157,7 +157,7 @@ const Home = () => {
               rel="noopener noreferrer"
               target="_blank"
             >
-              <i className="fa fa-github"></i>
+              <i class="fa fa-github" aria-hidden="true"></i>
             </a>
 
             {/*telegram*/}
@@ -167,7 +167,7 @@ const Home = () => {
               rel="noopener noreferrer"
               target="_blank"
             >
-              <i className="fa fa-telegram  " />
+              <i class="fa fa-telegram" aria-hidden="true"></i>
             </a>
 
             {/*mail*/}
@@ -177,7 +177,7 @@ const Home = () => {
               rel="noopener noreferrer"
               target="_blank"
             >
-              <i className="fa fa-envelope" />
+              <i class="fa fa-envelope" aria-hidden="true"></i>
             </a>
           </Col>
         </Row>

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
+import { Container } from "react-bootstrap";
+import CoolTabs from "react-cool-tabs";
 
 import Programming from "./programming";
 import Design from "./design";
@@ -9,37 +10,47 @@ class Projects extends Component {
     return (
       <div
         style={{
-          minHeight: "100vh",
-          height: "auto",
-          width: "auto",
-          backgroundColor: "#202020"
+          height: "160vh",
+          width: "100%",
+          backgroundColor: "#202020",
+          paddingTop: "120px"
         }}
       >
-        <Container style={{ paddingTop: "10vh" }}>
-          <Tab.Container id="left-tabs-example" defaultActiveKey="first">
-            <Row>
-              <Col sm={3}>
-                <Nav variant="pills" className="flex-column">
-                  <Nav.Item>
-                    <Nav.Link eventKey="first">Programming</Nav.Link>
-                  </Nav.Item>
-                  <Nav.Item>
-                    <Nav.Link eventKey="second">Design</Nav.Link>
-                  </Nav.Item>
-                </Nav>
-              </Col>
-              <Col sm={9}>
-                <Tab.Content>
-                  <Tab.Pane eventKey="first">
-                    <Programming />
-                  </Tab.Pane>
-                  <Tab.Pane eventKey="second">
-                    <Design />
-                  </Tab.Pane>
-                </Tab.Content>
-              </Col>
-            </Row>
-          </Tab.Container>
+        <Container>
+          <CoolTabs
+            tabKey={"1"}
+            style={{
+              width: "100%",
+              height: "140vh"
+            }}
+            activeTabStyle={{
+              background: "#dadada",
+              color: "#202020",
+              fontWeight: "bold"
+            }}
+            unActiveTabStyle={{
+              background: "#dadada",
+              color: "#202020",
+              fontWeight: "bold"
+            }}
+            activeLeftTabBorderBottomStyle={{
+              background: "#464646",
+              height: 4
+            }}
+            activeRightTabBorderBottomStyle={{
+              background: "#464646",
+              height: 4
+            }}
+            tabsBorderBottomStyle={{ background: "#969696", height: 4 }}
+            leftContentStyle={{ background: "#202020" }}
+            rightContentStyle={{ background: "#202020" }}
+            leftTabTitle={"Programming"}
+            rightTabTitle={"Design"}
+            leftContent={<Programming />}
+            rightContent={<Design />}
+            contentTransitionStyle={"transform 0.6s ease-in"}
+            borderTransitionStyle={"all 0.6s ease-in"}
+          />
         </Container>
       </div>
     );

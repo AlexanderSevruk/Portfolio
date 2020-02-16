@@ -5,13 +5,13 @@ import "./project.css";
 const Design = () => {
   return (
     <Container>
-      <Row>
+      <Row className="justify-content-md-start">
         <Col md="auto">
           <Card
             style={{
-              maxWidth: "15rem",
-              margin: "20px 0",
-              border: "none"
+              marginTop: "20px",
+              border: "none",
+              maxWidth: "14rem"
             }}
           >
             <Card.Img
@@ -19,7 +19,7 @@ const Design = () => {
               variant="top"
               src="http://i.piccy.info/i9/dbf475dc4643228b2993429cec588db5/1572791522/61085/1345661/Slime_crates_behance.jpg"
             />
-            <Card.Body style={{ fontSize: "0.9rem", height: "auto" }}>
+            <Card.Body style={{ fontSize: "0.9rem", height: "14rem" }}>
               <Card.Title>Logo</Card.Title>
               <Card.Text>
                 Сделал несколько логотипов на 99designs. Большинство из них вы
@@ -37,12 +37,12 @@ const Design = () => {
           </Card>
         </Col>
 
-        <Col>
+        <Col md="auto">
           <Card
             style={{
-              maxWidth: "15rem",
-              margin: "20px 0",
-              border: "none"
+              marginTop: "20px",
+              border: "none",
+              maxWidth: "14rem"
             }}
           >
             <Card.Img
@@ -50,7 +50,7 @@ const Design = () => {
               variant="top"
               src="http://i.piccy.info/i9/411df9f2a4ea71aa79ee569b7fb30a3c/1572792248/109476/1345661/offline.jpg"
             />
-            <Card.Body style={{ fontSize: "0.9rem", height: "auto" }}>
+            <Card.Body style={{ fontSize: "0.9rem", height: "14rem" }}>
               <Card.Title>templates/overlays</Card.Title>
               <Card.Text>Оформление для медиаресурсов.</Card.Text>
               <Button
