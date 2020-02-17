@@ -3,7 +3,7 @@ import Nav from "./components/NavMenu/navmenu";
 import "./App.css";
 import Home from "./components/HomePage/homepage";
 import Skills from "./components/Skills/skills";
-import Projects from "./components/Projects/projects";
+import Projects from "./components/Projects/cards";
 import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
