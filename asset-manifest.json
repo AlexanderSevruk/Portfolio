@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.50f69daf.chunk.css",
-    "main.js": "/Portfolio/static/js/main.e6846f25.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.e6846f25.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.05156367.chunk.css",
+    "main.js": "/Portfolio/static/js/main.313a2bbc.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.313a2bbc.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d583e38c.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d583e38c.js.map",
     "static/css/2.47e06e2e.chunk.css": "/Portfolio/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f7915836.chunk.js": "/Portfolio/static/js/2.f7915836.chunk.js",
-    "static/js/2.f7915836.chunk.js.map": "/Portfolio/static/js/2.f7915836.chunk.js.map",
+    "static/js/2.71b2cc7c.chunk.js": "/Portfolio/static/js/2.71b2cc7c.chunk.js",
+    "static/js/2.71b2cc7c.chunk.js.map": "/Portfolio/static/js/2.71b2cc7c.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.3fcc2a667dba61275f10d0d9419fa88c.js": "/Portfolio/precache-manifest.3fcc2a667dba61275f10d0d9419fa88c.js",
+    "precache-manifest.747d9b4120876c7b38bce7a99363b60b.js": "/Portfolio/precache-manifest.747d9b4120876c7b38bce7a99363b60b.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Portfolio/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.50f69daf.chunk.css.map": "/Portfolio/static/css/main.50f69daf.chunk.css.map",
-    "static/js/2.f7915836.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.f7915836.chunk.js.LICENSE.txt",
+    "static/css/main.05156367.chunk.css.map": "/Portfolio/static/css/main.05156367.chunk.css.map",
+    "static/js/2.71b2cc7c.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.71b2cc7c.chunk.js.LICENSE.txt",
     "static/media/Recipebook.jpg": "/Portfolio/static/media/Recipebook.e5122d51.jpg",
     "static/media/Slime_crates_behance.jpg": "/Portfolio/static/media/Slime_crates_behance.d9d62aca.jpg",
     "static/media/fesco_layout.jpg": "/Portfolio/static/media/fesco_layout.10f94b66.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.d583e38c.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f7915836.chunk.js",
-    "static/css/main.50f69daf.chunk.css",
-    "static/js/main.e6846f25.chunk.js"
+    "static/js/2.71b2cc7c.chunk.js",
+    "static/css/main.05156367.chunk.css",
+    "static/js/main.313a2bbc.chunk.js"
   ]
 }
