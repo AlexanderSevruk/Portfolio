@@ -1,37 +1,37 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.54b1bfe3.chunk.css",
-    "main.js": "/Portfolio/static/js/main.19cfe6a7.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.19cfe6a7.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.297c67a5.chunk.css",
+    "main.js": "/Portfolio/static/js/main.93f8ff1a.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.93f8ff1a.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d583e38c.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d583e38c.js.map",
     "static/css/2.47e06e2e.chunk.css": "/Portfolio/static/css/2.47e06e2e.chunk.css",
     "static/js/2.5e0f8213.chunk.js": "/Portfolio/static/js/2.5e0f8213.chunk.js",
     "static/js/2.5e0f8213.chunk.js.map": "/Portfolio/static/js/2.5e0f8213.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.0ba3e91dc6fe565ed00ec5ed88b5041d.js": "/Portfolio/precache-manifest.0ba3e91dc6fe565ed00ec5ed88b5041d.js",
+    "precache-manifest.356805f3bad8aeff0a205eecb30b09c3.js": "/Portfolio/precache-manifest.356805f3bad8aeff0a205eecb30b09c3.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Portfolio/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.54b1bfe3.chunk.css.map": "/Portfolio/static/css/main.54b1bfe3.chunk.css.map",
+    "static/css/main.297c67a5.chunk.css.map": "/Portfolio/static/css/main.297c67a5.chunk.css.map",
     "static/js/2.5e0f8213.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.5e0f8213.chunk.js.LICENSE.txt",
     "static/media/Recipebook.jpg": "/Portfolio/static/media/Recipebook.e5122d51.jpg",
     "static/media/Slime_crates_behance.jpg": "/Portfolio/static/media/Slime_crates_behance.d9d62aca.jpg",
-    "static/media/ai.svg": "/Portfolio/static/media/ai.0a27eac7.svg",
-    "static/media/bootstrap.svg": "/Portfolio/static/media/bootstrap.8aa04a22.svg",
-    "static/media/css.svg": "/Portfolio/static/media/css.5ba82a64.svg",
+    "static/media/ai.svg": "/Portfolio/static/media/ai.dc57dc11.svg",
+    "static/media/bootstrap.svg": "/Portfolio/static/media/bootstrap.35bbb0b0.svg",
+    "static/media/css.svg": "/Portfolio/static/media/css.463f456b.svg",
     "static/media/fesco_layout.jpg": "/Portfolio/static/media/fesco_layout.10f94b66.jpg",
-    "static/media/html-5.svg": "/Portfolio/static/media/html-5.592a7a02.svg",
+    "static/media/html-5.svg": "/Portfolio/static/media/html-5.563d3a6e.svg",
     "static/media/material-ui.svg": "/Portfolio/static/media/material-ui.3cf8a5f4.svg",
     "static/media/moviefinder.jpg": "/Portfolio/static/media/moviefinder.c1a268e3.jpg",
-    "static/media/photoshop.svg": "/Portfolio/static/media/photoshop.39616e45.svg",
-    "static/media/react-bootstrap.svg": "/Portfolio/static/media/react-bootstrap.cd19be2e.svg",
-    "static/media/react.svg": "/Portfolio/static/media/react.0fd1917d.svg"
+    "static/media/photoshop.svg": "/Portfolio/static/media/photoshop.18adbd5e.svg",
+    "static/media/react-bootstrap.svg": "/Portfolio/static/media/react-bootstrap.3f5459fe.svg",
+    "static/media/react.svg": "/Portfolio/static/media/react.1540379d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d583e38c.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.5e0f8213.chunk.js",
-    "static/css/main.54b1bfe3.chunk.css",
-    "static/js/main.19cfe6a7.chunk.js"
+    "static/css/main.297c67a5.chunk.css",
+    "static/js/main.93f8ff1a.chunk.js"
   ]
 }

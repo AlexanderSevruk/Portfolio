@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3609d5f397554e538d3c2c0358dd0ce",
+    "revision": "3fc019417748426dd91df2f6a5c21787",
     "url": "/Portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "d8ccdf0d469a09c2c9a5",
-    "url": "/Portfolio/static/css/main.54b1bfe3.chunk.css"
+    "revision": "9037df51b349a73c7dd6",
+    "url": "/Portfolio/static/css/main.297c67a5.chunk.css"
   },
   {
     "revision": "a2aa356d5ce3b335f18d",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.5e0f8213.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8ccdf0d469a09c2c9a5",
-    "url": "/Portfolio/static/js/main.19cfe6a7.chunk.js"
+    "revision": "9037df51b349a73c7dd6",
+    "url": "/Portfolio/static/js/main.93f8ff1a.chunk.js"
   },
   {
     "revision": "d96526bd3ec7c3ab00e8",
@@ -36,24 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/Slime_crates_behance.d9d62aca.jpg"
   },
   {
-    "revision": "0a27eac788457560abaa8d8027231267",
-    "url": "/Portfolio/static/media/ai.0a27eac7.svg"
+    "revision": "dc57dc11d3f3bad21c652ec75b59d8e6",
+    "url": "/Portfolio/static/media/ai.dc57dc11.svg"
   },
   {
-    "revision": "8aa04a2212aa3b1cc6595f685768927c",
-    "url": "/Portfolio/static/media/bootstrap.8aa04a22.svg"
+    "revision": "35bbb0b0d28353ab1757f4906ae4f215",
+    "url": "/Portfolio/static/media/bootstrap.35bbb0b0.svg"
   },
   {
-    "revision": "5ba82a64b1eb1316d7e16feb02013584",
-    "url": "/Portfolio/static/media/css.5ba82a64.svg"
+    "revision": "463f456b3f516b592dac64cac0cac825",
+    "url": "/Portfolio/static/media/css.463f456b.svg"
   },
   {
     "revision": "10f94b66d6d4ae2f4bda405a07ad67aa",
     "url": "/Portfolio/static/media/fesco_layout.10f94b66.jpg"
   },
   {
-    "revision": "592a7a02ff92e555ee4387df6531c504",
-    "url": "/Portfolio/static/media/html-5.592a7a02.svg"
+    "revision": "563d3a6ef30439636230edf4a6112c57",
+    "url": "/Portfolio/static/media/html-5.563d3a6e.svg"
   },
   {
     "revision": "3cf8a5f496380da671fc1d9faebe6c21",
@@ -64,15 +64,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/moviefinder.c1a268e3.jpg"
   },
   {
-    "revision": "39616e454134bd87bea5aa0c0f778fd0",
-    "url": "/Portfolio/static/media/photoshop.39616e45.svg"
+    "revision": "18adbd5e39e0ccda597b426b30defc89",
+    "url": "/Portfolio/static/media/photoshop.18adbd5e.svg"
   },
   {
-    "revision": "cd19be2e041e78e4a160c8d60c5d79c0",
-    "url": "/Portfolio/static/media/react-bootstrap.cd19be2e.svg"
+    "revision": "3f5459fee9403ece146f304aa43eeeb2",
+    "url": "/Portfolio/static/media/react-bootstrap.3f5459fe.svg"
   },
   {
-    "revision": "0fd1917dfd7636ba6572dd2fd297a692",
-    "url": "/Portfolio/static/media/react.0fd1917d.svg"
+    "revision": "1540379df5bbc23d72b72aad8fcd961e",
+    "url": "/Portfolio/static/media/react.1540379d.svg"
   }
 ]);
