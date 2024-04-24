@@ -5,7 +5,7 @@
   "homepage": "http://alexandersevruk.github.io/Portfolio",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "react": "^16.11.0",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-burger-menu": "^2.6.11",
